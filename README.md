@@ -12,6 +12,10 @@ Synthetic Datasets for benchmarking feature selection algorithms as from the pap
 
 
 <h2>Cite this work:</h2>
-```bibtex
+```
 @inproceedings{Mitra_2022, doi = {10.1109/ismode56940.2022.10180928}, url = {https://doi.org/10.1109%2Fismode56940.2022.10180928}, year = 2022, month = {dec}, publisher = {{IEEE}}, author = {Rohan Mitra and Dara Varam and Eyad Ali and Hana Sulieman and Firuz Kamalov}, title = {Development of Synthetic Data Benchmarks for Evaluating Feature Selection Algorithms}, booktitle = {2022 2nd International Seminar on Machine Learning, Optimization, and Data Science ({ISMODE})}}
+```
+
+```
+ x=1
 ```
