@@ -14,7 +14,7 @@ Synthetic Datasets for benchmarking feature selection algorithms as from the pap
 <h2>Cite this work:</h2>
 
 ```
-@Article{synthetic_data_1,
+@Article{SynthSelect,
 AUTHOR = {Mitra, Rohan and Ali, Eyad and Varam, Dara and Sulieman, Hana and Kamalov, Firuz},
 TITLE = {Variable Selection in Data Analysis: A Synthetic Data Toolkit},
 JOURNAL = {Mathematics},
@@ -27,7 +27,7 @@ ISSN = {2227-7390},
 DOI = {10.3390/math12040570}
 }
 
-@INPROCEEDINGS{synthetic_data_2,
+@INPROCEEDINGS{SynthSelect_ISMODE,
   author={Mitra, Rohan and Varam, Dara and Ali, Eyad and Sulieman, Hana and Kamalov, Firuz},
   booktitle={2022 2nd International Seminar on Machine Learning, Optimization, and Data Science (ISMODE)}, 
   title={Development of Synthetic Data Benchmarks for Evaluating Feature Selection Algorithms}, 
